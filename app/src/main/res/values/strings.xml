@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dynamic creation of views</string>
+
+    <string-array name="types">
+        <item>Mobile</item>
+        <item>Office</item>
+        <item>Home</item>
+    </string-array>
+
+</resources>
